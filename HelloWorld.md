@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-Create for the JHU The Data Scientist’s Toolbox course
+Created for the JHU The Data Scientist’s Toolbox course
